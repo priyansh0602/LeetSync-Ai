@@ -120,7 +120,3 @@ For maximum security, use a **Fine-grained Personal Access Token**:
 3. **Problem Categories**: SQL, Concurrency, Shell, and System Design problems are not supported in v1.
 
 ---
-
-## 📄 License
-
-This project is open-source under the **MIT License**.
