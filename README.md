@@ -124,7 +124,3 @@ For maximum security, use a **Fine-grained Personal Access Token**:
 ## 📄 License
 
 This project is open-source under the **MIT License**.
-
----
-
-*Made with ❤️ for LeetCoders.*
